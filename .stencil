@@ -1,0 +1,12 @@
+{
+  "normalStoreUrl": "https://sean-hulse.mybigcommerce.com/",
+  "port": 3000,
+  "clientId": "lvmn2igmbel16qdbp4u9c210x9w4x19",
+  "accessToken": "akdksu9s9s2bo5rzebhy3l6g5h3vp42",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
